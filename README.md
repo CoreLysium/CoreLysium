@@ -15,4 +15,4 @@
   - Javascript (3 years)
   - C++ (3 years)
   - PHP (3 years)
-  - PowerShell (1 year)
+  - PowerShell (2 years)
