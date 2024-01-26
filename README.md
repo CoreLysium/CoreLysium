@@ -16,3 +16,4 @@
   - C++ (3 years)
   - PHP (3 years)
   - PowerShell (2 years)
+  - Bash (3 years)
